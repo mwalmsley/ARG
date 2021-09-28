@@ -151,7 +151,5 @@ def add_background(images, backgrounds):
 
 
 if __name__ == "__main__":
-
     cosmo = FlatLambdaCDM(H0=70 * u.km / u.s / u.Mpc, Tcmb0=2.725 * u.K, Om0=0.3)
-
     sys.exit(main())
