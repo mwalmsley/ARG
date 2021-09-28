@@ -152,4 +152,5 @@ def add_background(images, backgrounds):
 
 
 if __name__ == "__main__":
+    # some new comment
     sys.exit(main())
